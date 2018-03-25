@@ -1,0 +1,1 @@
+strict graph { 0 -- 1[label=5]0 -- 2[label=3]0 -- 3[label=8]0 -- 4[label=6]}
